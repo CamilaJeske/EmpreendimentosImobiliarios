@@ -1,0 +1,129 @@
+*{
+    font-family: 'Epilogue', sans-serif;
+    }
+
+
+body {
+    background-image: url(../img/Familiafeliz.2.jpg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 100% 100%;}
+
+.one{
+    text-align: center;
+    font-family: 'Epilogue', sans-serif;
+    color: hsl(20, 11%, 36%);
+    background-color: #E59971;
+    font-size: 50px;
+    border: 1px solid #B37757;
+    margin-top: 20px;
+    height: 90px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.two{
+    text-align: center;
+    color: #EACAB9;
+    font-family: 'Allura', cursive;
+    font-size: 30px;
+    margin-top: -30px;
+    padding: 0 auto;
+   
+}
+
+.three {
+    
+    height: 450px;
+    text-align: center;
+    align-items: center;
+    margin-top: 78px;
+    padding: 0 auto;
+
+   }
+
+  
+.three a {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: hsl(20, 11%, 36%, 0.8);
+    color: #fff;
+    border-radius: 5px;
+    border: 1px solid hsl(20, 11%, 36%, 0.8);
+    text-align: center;
+    margin-top: 60px;
+    font-family: 'Epilogue', sans-serif;
+    transition: all 0.3s;
+   
+} 
+
+a:hover{
+    background-color: #E59971;
+    color: white;
+    text-decoration: none;
+
+}
+
+.three select{
+    background-color: hsl(20, 11%, 36%, 0.8);
+    border-radius: 5px;
+    border: 1px solid hsl(20, 11%, 36%, 0.8);
+    text-align: center;
+    color: #fff;
+    font-family: 'Epilogue', sans-serif;
+    padding: 8px 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: all 0.3s;
+
+}
+
+select:hover {
+    background-color: #E59971;
+    color: white;
+
+}
+
+.first {
+    font-size: 22px;
+    color: #665851;
+    font-weight: lighter;
+    margin-bottom: 22px;
+    font-weight: bolder;
+   
+    
+}
+
+
+
+footer {
+    background-color: #E59971;
+    color: #665851;
+    height: 50px;
+    margin-top: 250px;
+    text-align: center;
+
+}
+.navbar
+{
+    color:#EACAB9
+}
+
+.navbar-brand:hover{
+    background-color: #EACAB9;
+    color: #fff;
+    border: 1px solid #EACAB9;
+    border-radius: 5px;
+
+}
+
+.nav-item:hover{
+    background-color: #EACAB9;
+    color: #fff;
+    border: 1px solid #EACAB9;
+    border-radius: 5px;
+
+}
+
+
+
